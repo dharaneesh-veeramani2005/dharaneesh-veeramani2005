@@ -1,235 +1,375 @@
+<!-- =========================
+     DHARANEESHWARAN V
+     GITHUB PROFILE README
+========================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=DHARANEESHWARAN%20V&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20%26%20DATA%20SCIENCE%20%7C%20JAVA%20%7C%20PYTHON&amp;descAlignY=58&amp;descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=240&section=header&text=DHARANEESHWARAN%20V&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=60&descSize=17&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+Real-World+Projects;Learning+New+Technologies;Exploring+Artificial+Intelligence;Developing+Software+Solutions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate;Java+%7C+Python+%7C+JavaScript;Cloud+%7C+Software+Development;Building+Ideas+Into+Real+Projects;Learn+%E2%86%92+Build+%E2%86%92+Improve" alt="Typing Animation"/>
 
-<br/><br/>
+<br>
 
-<img src="https://img.shields.io/badge/EDUCATION-B.Tech%20AI%20%26%20Data%20Science-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20Software%20Development-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-Tiruchirappalli%2C%20India-4C1D95?style=for-the-badge"/>
-
-<br/><br/>
+<a href="https://github.com/dharaneesh-veeramani2005">
+<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/dharaneesh-v-2906s">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dharanisarathy06@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/dharaneesh-veeramani2005">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Software%20Development-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeVita-Rank%204261-111827?style=flat-square"/>
+
+</div>
+
+---
+
+# 👨‍💻 Who Am I?
+
+```text
+DHARANEESHWARAN V
+│
+├── 🎓 B.Tech — Artificial Intelligence & Data Science
+│
+├── 💻 Programming
+│   ├── Java
+│   ├── Python
+│   └── C
+│
+├── 🌐 Development
+│   ├── HTML
+│   ├── CSS
+│   ├── JavaScript
+│   └── React.js
+│
+├── ☁️ Cloud & Platforms
+│   ├── AWS
+│   ├── Git
+│   ├── GitHub
+│   └── ServiceNow
+│
+└── 🚀 Mission
+    └── Build useful technology that solves real problems
+```
+
+I'm an **Artificial Intelligence and Data Science undergraduate** who enjoys turning ideas into practical software solutions.
+
+My interests span **software development, artificial intelligence, cloud technologies, embedded systems, and problem solving**. I enjoy learning by building real projects and continuously improving my technical skills.
+
+> **Think → Code → Build → Test → Improve**
+
+---
+
+# ⚡ My Developer Identity
+
+<div align="center">
+
+| 🧠 Think | 💻 Build | ☁️ Deploy | 🚀 Improve |
+|:---:|:---:|:---:|:---:|
+| Problem Solving | Software | Cloud | Continuous Learning |
+| Analytical Thinking | AI Projects | AWS | New Technologies |
+| DSA | Web Apps | Databases | Better Solutions |
+
+</div>
+
+---
+
+# 🛠️ Technology Arsenal
+
+### 💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ☁️ Cloud & Developer Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+</p>
+
+### 🔧 Additional Technologies
+
+```text
+ServiceNow
+JDBC
+Arduino
+Blender
+3D Rendering
+Voice Recognition
+Gesture Recognition
+Embedded Systems
+Machine Learning
+DBMS
+Object-Oriented Programming
+Data Structures & Algorithms
+```
+
+---
+
+# 🚀 Projects That Define My Journey
+
+## 🏗️ 01 — EchoStruct3D
+
+### Voice-Controlled 3D Architectural Design
+
+A browser-based **3D architectural visualization system** designed to make interaction more natural through voice-controlled navigation and interactive object manipulation.
+
+The project combines **real-time speech recognition, 3D visualization and web technologies** to create an immersive design experience.
+
+**Built With**
+
+`JavaScript` `Blender` `HTML` `CSS` `3D Rendering` `Voice Recognition` `AR/VR`
+
+<div align="left">
+
+<a href="https://github.com/dharaneesh-veeramani2005/EchoStruct3D">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🤟 02 — SignSyncAI
 
-```yaml
-name: DHARANEESHWARAN V
-education: B.Tech Artificial Intelligence and Data Science
-role: AI & Data Science Undergraduate
+### Two-Way Sign Language Communication System
 
-focus:
-  - Java
-  - Python
-  - Software Development
+A wearable communication system designed to convert **hand gestures into text and speech**, while also supporting reverse communication through **text and audio**.
 
-currently_learning:
-  - Artificial Intelligence
-  - Machine Learning
-  - Cloud Technologies
+The project focuses on accessibility and real-time gesture recognition using embedded technologies.
 
-mindset: Learn → Build → Share → Improve
-```
+**Built With**
 
-I am an Artificial Intelligence and Data Science undergraduate passionate about transforming ideas into practical software solutions.
+`Python` `C++` `Arduino` `Embedded Systems` `Sensors` `Gesture Recognition`
 
-I enjoy building real-world projects using programming, AI, embedded systems, and cloud technologies.
-
-I continuously learn new technologies and focus on developing high-quality applications.
-
----
-
-## 💻 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,nodejs"/>
-</p>
-
-### Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws"/>
-</p>
-
-### Other Technologies
-
-`ServiceNow` `JDBC` `Arduino` `Blender` `3D Rendering` `Gesture Recognition`
-
----
-
-## 🏆 Certifications & Achievements
-
-- ☁️ AWS Certified Cloud Practitioner
-- ⚙️ ServiceNow Certified System Administrator (CSA)
-- 💻 ServiceNow Certified Application Developer (CAD)
-- 🏅 NASSCOM FutureSkills Prime – Cloud Computing (Gold)
-- 🥇 TCS CodeVita Season 13 – Global Rank **4261**
-
----
-
-## 📚 My Learning Journey
-
-```text
-Artificial Intelligence
-        ↓
-Programming & Problem Solving
-        ↓
-Software Development
-        ↓
-Cloud & Advanced Technologies
-        ↓
-Real-World Projects
-        ↓
-Professional Growth
-```
-
-> Learn → Build → Share → Improve
-
-### Currently Exploring
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ☁️ Cloud Technologies
-- 💻 Software Development
-
----
-
-## 🚀 Featured Projects
-
-### 🔷 Project 01 — EchoStruct3D
-
-**Voice-Controlled 3D Architectural Design**
-
-Developed a browser-based 3D architectural visualization system with voice-controlled navigation and interactive object manipulation. Enhanced the user experience through real-time speech recognition and immersive 3D design capabilities.
-
-**Tech Stack:**
-
-`JavaScript` `Blender` `Web Technologies` `3D Rendering` `Voice Recognition` `AR/VR`
-
-<a href="https://github.com/dharaneesh-veeramani2005/EchoStruct3D">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
-</a>
-
----
-
-### 🔷 Project 02 — SignSyncAI
-
-**Two-Way Sign Language Communication System**
-
-Developed a wearable sign language communication system that converts hand gestures into text and speech while enabling reverse communication through text and audio.
-
-**Tech Stack:**
-
-`C++` `Python` `Arduino` `Embedded Systems` `Sensors` `Gesture Recognition`
+<div align="left">
 
 <a href="https://github.com/dharaneesh-veeramani2005/SignSyncAI">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
 
 ---
 
-### 🔷 Project 03 — CampusIQ-Cloud
+## ☁️ 03 — CampusIQ-Cloud
 
-**AI-Based Student Management System**
+### AI-Based Student Management System
 
-Developed an AI-based Student Management System with secure role-based authentication for administrators, faculty, and students. Implemented academic assistance, student record management, attendance tracking, assignment management, and performance monitoring.
+An AI-based student management platform with **role-based authentication** for administrators, faculty and students.
 
-**Tech Stack:**
+It provides academic assistance along with student record management, attendance tracking, assignment management and performance monitoring through a responsive web interface.
+
+**Built With**
 
 `Java` `MySQL` `JavaScript` `JDBC` `AWS EC2` `AWS RDS`
 
+<div align="left">
+
 <a href="https://github.com/dharaneesh-veeramani2005/CampusIQ-Cloud">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+# 🏆 Achievements & Certifications
+
+<div align="center">
+
+### 🥇 TCS CodeVita Season 13
+
+**Global Rank — 4261**
+
+</div>
+
+### ☁️ Cloud & Platform Certifications
+
+- **AWS Certified Cloud Practitioner**
+- **ServiceNow Certified System Administrator (CSA)**
+- **ServiceNow Certified Application Developer (CAD)**
+- **NASSCOM FutureSkills Prime — Cloud Computing (Gold)**
+
+My resume also highlights practical project experience across **AI, embedded systems and cloud technologies**. :contentReference[oaicite:1]{index=1}
+
+---
+
+# 📈 Learning Roadmap
+
+```text
+                    MY JOURNEY
+                        │
+                        ▼
+              ┌─────────────────┐
+              │  Programming    │
+              │ Java • Python   │
+              │ C • DSA         │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │ Software Dev    │
+              │ Web • Database  │
+              │ OOP • JDBC      │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │ AI & Data       │
+              │ ML • Analytics  │
+              │ Intelligent Apps│
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │ Cloud           │
+              │ AWS • EC2 • RDS │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │ Real Projects   │
+              │ Build • Test    │
+              │ Deploy • Learn  │
+              └────────┬────────┘
+                       │
+                       ▼
+                🚀 PROFESSIONAL
+                   GROWTH
+```
+
+---
+
+# 🔭 Currently Exploring
 
 ```yaml
 learning:
   - Artificial Intelligence
   - Machine Learning
+  - Advanced Java
   - Cloud Technologies
 
 building:
   - AI-Based Applications
-  - Real-World Software Projects
+  - Software Development Projects
+  - Cloud-Based Solutions
 
-exploring:
-  - Advanced Software Development
-  - Cloud Computing
+improving:
+  - Data Structures & Algorithms
+  - Problem Solving
+  - Database Management
+  - Development Practices
 
-goal:
-  - Become a skilled Software Developer
-  - Build impactful technology solutions
+next_goal:
+  - Become a Strong Software Developer
+  - Build Meaningful Technology Solutions
 ```
 
 ---
 
-## 🐙 GitHub
+# 🧩 My Problem-Solving Mindset
+
+```text
+              ┌───────────────┐
+              │    PROBLEM    │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │    ANALYZE    │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │    DESIGN     │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │     CODE      │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │     TEST      │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │    IMPROVE    │
+              └───────┬───────┘
+                      ↓
+                   🚀 SHIP
+```
+
+---
+
+# 📊 GitHub
 
 <div align="center">
 
 <a href="https://github.com/dharaneesh-veeramani2005">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dharaneesh-veeramani2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=8B5CF6&text_color=CBD5E1"/>
+
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharaneesh-veeramani2005&theme=tokyonight&hide_border=true&background=0F172A&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+# 🌱 Beyond Code
+
+```text
+🧠 Problem Solving
+🤝 Teamwork & Collaboration
+💬 Communication
+⚡ Adaptability
+📚 Continuous Learning
+⏱️ Time Management
+```
+
+I believe strong developers are not only good at writing code — they are also good at **understanding problems, communicating ideas and continuously learning**.
+
+---
+
+# 📬 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dharaneesh-v-2906s">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dharanisarathy06@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/dharaneesh-veeramani2005">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -238,12 +378,12 @@ goal:
 
 <div align="center">
 
-### 🚀 Keep Building. Keep Learning. Keep Growing.
+## 💜 Build Something Meaningful.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Learn+Something+New+Every+Day;Turn+Ideas+Into+Projects;Code+With+Purpose;Keep+Building+%F0%9F%9A%80" alt="Footer Animation"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=130&section=footer"/>
 
 </div>
