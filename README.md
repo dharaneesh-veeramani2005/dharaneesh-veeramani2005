@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DHARANEESHWARAN%20V&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20JAVA%20%7C%20PYTHON&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=DHARANEESHWARAN%20V&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20%26%20DATA%20SCIENCE%20%7C%20JAVA%20%7C%20PYTHON&amp;descAlignY=58&amp;descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Real-World+Projects;Learning+New+Technologies;Exploring+Artificial+Intelligence;Developing+Software+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+Real-World+Projects;Learning+New+Technologies;Exploring+Artificial+Intelligence;Developing+Software+Solutions" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -13,15 +13,15 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/dharaneesh-v-2906s">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 
 <a href="mailto:dharanisarathy06@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 
 <a href="https://github.com/dharaneesh-veeramani2005">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 </div>
@@ -48,8 +48,10 @@ currently_learning:
 mindset: Learn → Build → Share → Improve
 ```
 
-I am an Artificial Intelligence and Data Science undergraduate passionate about transforming ideas into practical software solutions.  
-I enjoy building real-world projects using programming, AI, embedded systems, and cloud technologies.  
+I am an Artificial Intelligence and Data Science undergraduate passionate about transforming ideas into practical software solutions.
+
+I enjoy building real-world projects using programming, AI, embedded systems, and cloud technologies.
+
 I continuously learn new technologies and focus on developing high-quality applications.
 
 ---
@@ -129,13 +131,15 @@ Professional Growth
 
 **Voice-Controlled 3D Architectural Design**
 
-Developed a browser-based 3D architectural visualization system with voice-controlled navigation and interactive object manipulation. The project combines real-time speech recognition with immersive 3D design capabilities.
+Developed a browser-based 3D architectural visualization system with voice-controlled navigation and interactive object manipulation. Enhanced the user experience through real-time speech recognition and immersive 3D design capabilities.
 
 **Tech Stack:**
 
-`JavaScript` `Blender` `HTML` `CSS` `3D Rendering` `Voice Recognition` `AR/VR`
+`JavaScript` `Blender` `Web Technologies` `3D Rendering` `Voice Recognition` `AR/VR`
 
-🔗 [View Project](https://github.com/dharaneesh-veeramani2005/EchoStruct3D)
+<a href="https://github.com/dharaneesh-veeramani2005/EchoStruct3D">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+</a>
 
 ---
 
@@ -143,13 +147,15 @@ Developed a browser-based 3D architectural visualization system with voice-contr
 
 **Two-Way Sign Language Communication System**
 
-Developed a wearable sign language communication system that converts hand gestures into text and speech while enabling reverse communication through text and audio. The system uses real-time gesture recognition to improve accessibility.
+Developed a wearable sign language communication system that converts hand gestures into text and speech while enabling reverse communication through text and audio.
 
 **Tech Stack:**
 
 `C++` `Python` `Arduino` `Embedded Systems` `Sensors` `Gesture Recognition`
 
-🔗 [View Project](https://github.com/dharaneesh-veeramani2005/SignSyncAI)
+<a href="https://github.com/dharaneesh-veeramani2005/SignSyncAI">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+</a>
 
 ---
 
@@ -157,13 +163,15 @@ Developed a wearable sign language communication system that converts hand gestu
 
 **AI-Based Student Management System**
 
-Developed an AI-based Student Management System with secure role-based authentication for administrators, faculty, and students. Includes academic assistance, student record management, attendance tracking, assignment management, and performance monitoring.
+Developed an AI-based Student Management System with secure role-based authentication for administrators, faculty, and students. Implemented academic assistance, student record management, attendance tracking, assignment management, and performance monitoring.
 
 **Tech Stack:**
 
 `Java` `MySQL` `JavaScript` `JDBC` `AWS EC2` `AWS RDS`
 
-🔗 [View Project](https://github.com/dharaneesh-veeramani2005/CampusIQ-Cloud)
+<a href="https://github.com/dharaneesh-veeramani2005/CampusIQ-Cloud">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+</a>
 
 ---
 
@@ -195,7 +203,7 @@ goal:
 <div align="center">
 
 <a href="https://github.com/dharaneesh-veeramani2005">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -213,15 +221,15 @@ goal:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dharaneesh-v-2906s">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 
 <a href="mailto:dharanisarathy06@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 
 <a href="https://github.com/dharaneesh-veeramani2005">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 </div>
@@ -232,10 +240,10 @@ goal:
 
 ### 🚀 Keep Building. Keep Learning. Keep Growing.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8" alt="Footer Animation"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer"/>
 
 </div>
